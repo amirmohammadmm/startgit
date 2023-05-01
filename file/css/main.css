@@ -96,6 +96,7 @@ textarea {
     height:470px;
     border:2px solid gray;
     border-radius:10px;
+    float:right;
    }
    div.test h2{
     text-align:center;
